@@ -1,0 +1,11 @@
+a5380ee
+Data Structures
+
+Descriptive
+Explain the difference between a stack and a queue in data structures, and give an example of a scenario where each one might be used.
+
+Descriptive
+Given a binary array, sort it in linear time and constant space. The output should print all zeroes, followed by all ones.
+
+Descriptive
+Find the middle of a given linked list

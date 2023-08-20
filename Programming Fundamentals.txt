@@ -1,0 +1,11 @@
+a5380ee
+Programming Fundamentals
+
+Descriptive
+Write a C++ program to add two numbers.
+
+Descriptive
+Check Whether Number is Even or Odd using if else(C++).
+
+Descriptive
+Calculate H.C.F using recursion(C++).

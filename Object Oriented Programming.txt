@@ -1,0 +1,11 @@
+a5380ee
+Object-Oriented Programming
+
+Descriptive
+Write a simple OOP program using one Car class.
+
+Descriptive
+What is Encapsulation?
+
+Descriptive
+What is Abstraction?

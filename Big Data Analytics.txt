@@ -1,0 +1,11 @@
+a5380ee
+Big Data Analytics
+
+Descriptive
+What are the 5 V’s in Big Data?
+
+Descriptive
+How is Hadoop and Big Data related?
+
+Descriptive
+What does P-Value denote about statistical data?
