@@ -1,5 +1,5 @@
 &AI;Artificial Intelligence;xyjko3;Abid Rauf;Artificial Intelligence Spring 2023 Semester
 &OOP;Object Oriented Programming;oilp23;Ishtiaq Ahmed;OOP Spring 2023 Semester
 &BDA;Big Data Analytics;defgh1;Abdul Salam;Big Data Spring 2023 Semester
-&DSA;Data Structures;szf99;Saleha Molu Malik;DSA Summer 2023 Semester
+&DSA;Data Structures;szf99;Saleha Malik;DSA Summer 2023 Semester
 &PF;Programming Fundamentals;jvck22;xyz;fall 22
